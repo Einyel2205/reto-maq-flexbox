@@ -1,0 +1,138 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    width: 550px;
+}
+.container {
+    background: turquoise;
+    width: 180px;
+    height: 180px;
+    display: flex;
+}
+#topY{
+    display: flex;
+}
+.topYellow{
+    background-color: #ffefd5;
+    width: 60px;
+    height: 60px;
+}
+#centerY{
+    display: flex;
+    align-items: center;
+}
+.centerYellow{
+    background-color: #ffefd5;
+    width: 60px;
+    height: 60px;
+}
+#bottomY{
+    display: flex;
+    align-items: flex-end;
+}
+.bottomYellow{
+    background-color: #ffefd5;
+    width: 60px;
+    height: 60px;
+}
+#topR{
+    display: flex;
+    justify-content: center;
+}
+.topRed{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #ffc1cb;
+    width: 60px;
+    height: 60px;
+}
+#centerR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centerRed{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #ffc1cb;
+    width: 60px;
+    height: 60px;
+}
+#bottomR{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.bottomRed{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #ffc1cb;
+    width: 60px;
+    height: 60px;
+}
+#topB{
+    display: flex;
+    justify-content: flex-end;
+}
+.topBlue{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #e0fffe;
+    width: 60px;
+    height: 60px;
+}
+#centerB{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.centerBlue{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #e0fffe;
+    width: 60px;
+    height: 60px;
+}
+#bottomB{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.bottomBlue{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #e0fffe;
+    width: 60px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
